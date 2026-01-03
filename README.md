@@ -8,7 +8,7 @@
 
 <img src="https://images.hitpaw.com/hitpaw-2022/product-logo/watermark-remover.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/hitpaw-watermark">
+<a href="https://gnomik-gomik-apps.github.io/.github/hitpaw-watermark">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
